@@ -202,7 +202,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://fraudforge-production.up.railway.app/",  # Add your Vercel URL
+        "https://fraudforge-production.up.railway.app",  # Add your Vercel URL
     ],
     allow_credentials=True,
     allow_methods=["*"],
