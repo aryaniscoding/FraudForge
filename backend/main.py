@@ -198,3 +198,13 @@ def health_check():
         "model_status": "loaded" if model is not None else "not_loaded",
         "api_version": "1.0.0"
     }
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:3000",
+        "https://fraudforge-production.up.railway.app/",  # Add your Vercel URL
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
