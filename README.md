@@ -4,7 +4,7 @@ AI-powered fraud detection using CatBoost ML with Next.js frontend and FastAPI b
 
 ## Tech Stack
 - **Frontend**: Next.js 14, React 18, Tailwind CSS, Axios
-- **Backend**: FastAPI, Python 3.10+, CatBoost, Pandas
+- **Backend**: FastAPI, Python 3.11, CatBoost, Pandas
 - **Deployment**: Vercel (Frontend) + Render (Backend)
 
 ## Local Development
@@ -20,7 +20,7 @@ npm install
 npm run dev
 
 ## Live Demo
-[Your deployed URL]
+https://fraud-forge.vercel.app/
 
 ## Features
 - CSV upload with drag-and-drop
@@ -34,4 +34,5 @@ npm run dev
 
 Made with ❤️ by Aryan for Tech Fiesta 2026
 
-</div> ```
+
+</div> 
