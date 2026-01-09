@@ -43,7 +43,7 @@ export default function Dashboard() {
     formData.append('file', file)
 
     try {
-      const response = await axios.post(`${API_URL}/api/predict`, formData, {
+      const response = await axios.post(`${API_URL}/predict`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       })
       setResults(response.data)
