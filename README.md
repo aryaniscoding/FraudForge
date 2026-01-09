@@ -28,3 +28,10 @@ npm run dev
 - Interactive dashboard
 - Risk level categorization
 - Detailed fraud analysis
+
+<div align="center">
+⭐ Star this repo if you found it helpful!
+
+Made with ❤️ by Aryan for Tech Fiesta 2026
+
+</div> ```
