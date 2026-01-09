@@ -1,0 +1,11 @@
+transaction_id,customer_id,card_number,timestamp,merchant_category,merchant_type,merchant,amount,currency,country,city,city_size,card_type,card_present,device,channel,device_fingerprint,ip_address,distance_from_home,high_risk_merchant,transaction_hour,weekend_transaction,velocity_last_hour,vel1h_num_transactions,vel1h_total_amount,vel1h_unique_merchants,vel1h_unique_countries,vel1h_max_single_amount
+TXN2001,CUST101,4111-xxxx-xxxx-1111,2026-01-08 10:12:10,Electronics,Online,Amazon,1200.50,USD,USA,New York,Large,Visa,0,Mobile,App,df_100001,192.168.1.10,350.2,1,10,0,12,12,14406.00,5,3,1200.50
+TXN2002,CUST102,4111-xxxx-xxxx-2222,2026-01-08 11:05:44,Gaming,Online,Steam,1850.00,USD,India,Mumbai,Large,MasterCard,0,Mobile,App,df_100002,192.168.1.11,480.9,1,11,0,18,18,33300.00,5,3,1850.00
+TXN2003,CUST103,4111-xxxx-xxxx-3333,2026-01-08 12:40:01,Travel,POS,Walmart,95.25,USD,Canada,Toronto,Medium,Visa,1,Desktop,Web,df_100003,192.168.1.12,3.5,0,12,0,2,2,190.50,2,1,95.25
+TXN2004,CUST104,4111-xxxx-xxxx-4444,2026-01-08 13:55:22,Fashion,Online,AliExpress,670.10,USD,UK,London,Large,Amex,0,Mobile,App,df_100004,192.168.1.13,220.0,1,13,0,9,9,6030.90,5,3,670.10
+TXN2005,CUST105,4111-xxxx-xxxx-5555,2026-01-08 14:10:55,Grocery,POS,Walmart,45.80,USD,USA,New York,Large,MasterCard,1,Desktop,Web,df_100005,192.168.1.14,1.2,0,14,0,1,1,45.80,1,1,45.80
+TXN2006,CUST106,4111-xxxx-xxxx-6666,2026-01-08 15:44:33,Electronics,Online,BestBuy,1325.75,USD,Germany,Berlin,Large,Visa,0,Mobile,App,df_100006,192.168.1.15,410.3,1,15,0,15,15,19886.25,5,3,1325.75
+TXN2007,CUST107,4111-xxxx-xxxx-7777,2026-01-08 16:21:18,Gaming,Online,Steam,1999.99,USD,India,Mumbai,Large,Visa,0,Mobile,App,df_100007,192.168.1.16,495.0,1,16,0,20,20,39999.80,5,3,1999.99
+TXN2008,CUST108,4111-xxxx-xxxx-8888,2026-01-08 17:08:49,Travel,POS,Amazon,180.45,USD,Canada,Toronto,Medium,MasterCard,1,Desktop,Web,df_100008,192.168.1.17,6.7,0,17,0,3,3,541.35,3,1,180.45
+TXN2009,CUST109,4111-xxxx-xxxx-9999,2026-01-08 18:33:27,Fashion,Online,AliExpress,740.60,USD,UK,London,Large,Amex,0,Mobile,App,df_100009,192.168.1.18,260.9,1,18,0,11,11,8146.60,5,3,740.60
+TXN2010,CUST110,4111-xxxx-xxxx-0000,2026-01-08 19:59:02,Grocery,POS,Walmart,62.10,USD,USA,New York,Large,Visa,1,Desktop,Web,df_100010,192.168.1.19,2.1,0,19,0,1,1,62.10,1,1,62.10
